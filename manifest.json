@@ -1,10 +1,10 @@
 {
-  "name": "Yardımcı",
-  "description": "Ne Haber?",
+  "name": "Sadrazam",
+  "description": "Ne Haber Sultanım?",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
-    "default_popup": "yardimci.html",
-    "default_icon": "yardimci.png"
+    "default_popup": "Sadrazam.html",
+    "default_icon": "Sadrazam.png"
   }
 }
