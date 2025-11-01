@@ -1,0 +1,10 @@
+{
+  "name": "Yardımcı",
+  "description": "Ne Haber?",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "yardimci.html",
+    "default_icon": "yardimci.png"
+  }
+}
